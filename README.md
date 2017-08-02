@@ -48,7 +48,7 @@ $ sphinx-quickstart
 
 1. Install cx_Freeze 
 ```
-$ python setup.py build
+$ pip install cx_Freeze
 ```
 
 2. Create executable
