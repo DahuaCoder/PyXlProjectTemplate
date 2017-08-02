@@ -43,3 +43,16 @@ $ pip install Sphinx
 ```
 $ sphinx-quickstart
 ```
+
+## Create Executable
+
+1. Install cx_Freeze 
+```
+$ python setup.py build
+```
+
+2. Create executable
+```
+$ python setup.py build
+```
+
