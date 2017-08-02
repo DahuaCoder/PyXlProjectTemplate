@@ -17,9 +17,12 @@ options = {
 }
 
 setup(
-    name = "<any name>",
-    options = options,
-    version = "<any number>",
-    description = '<any description>',
-    executables = executables
+    name='PyXlProjectTemplate',
+    version='0.1dev',
+    packages=['project_template', ],
+    license='Dario Steiner license',
+    long_description=open('README.md').read(),
+    options=options,
+    description='<any description>',
+    executables=executables
 )
