@@ -19,7 +19,7 @@ options = {
 setup(
     name='PythonProjectTemplate',
     options=options,
-    version='0.1dev',
+    version='0.1',
     description='<any description>',
     long_description=open('README.md').read(),
     executables=executables
